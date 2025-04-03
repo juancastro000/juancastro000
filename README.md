@@ -1,16 +1,34 @@
-# Hi, I'm juan! 👋
+# 💻 Full Stack Developer | Backend-Oriented  
+🚀 Passionate about backend development, software architecture, and scalable solutions.  
 
+## 🛠 Tech Stack  
 
-## 🚀 About Me
-I'm a programming learner at Factoria F5, very enthusiastic about improving in the world of web development and programming in general. I prefer the backend focus, but I'm always excited about acquiring new knowledge.
+### 🔹 Backend  
+- **Java** | OOP, SOLID principles  
+- **Spring Boot** | MVC & Feature-Based Architecture, Dependency Injection  
+- **Spring Security** | Authentication & Authorization (JWT, OAuth2)  
+- **RESTful APIs** | API Design, Swagger/OpenAPI, Postman  
+- **Database Management** | MySQL, H2, JPA/Hibernate  
+- **Docker** | Containerization & Deployment  
 
+### 🔹 Frontend  
+- **JavaScript (ES6+)**  
+- **React.js** | Hooks, State Management  
+- **SCSS / CSS3**  
+- **HTML5**  
 
-## 🛠 Skills
+### 🔹 Development Tools & Workflow  
+- **Git & GitHub**  
+- **Jira & Agile Methodologies** | Scrum, Kanban  
+- **TDD & Testing** | JUnit, Mockito, Integration Testing  
+- **CI/CD** | GitHub Actions  
 
-My tech stack is JavaScript, CSS, HTML, Git, and Python. It's basic, but I'm steadily improving it.
-
+### 🔹 Additional Skills  
+- **Software Architecture** | Clean Code, Modular Development  
+- **Figma**  
+- **API Consumption** | Fetch, Axios  
 
 ## stats
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancastro000&theme=default)
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-esteban-castro)
